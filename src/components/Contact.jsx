@@ -28,10 +28,10 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
     emailjs.send(
-      import.meta.env.VITE_EMAIL_SERVICE,
-      import.meta.env.VITE_EMAIL_TEMPLATE,
+      "service_ebdqckv",
+      "template_w6a6i3m",
       {from_name: form.name, to_name:'Brayan', from_email: form.email, to_email:'bryan.gmz94@gmail.com', message:form.message},
-      import.meta.env.VITE_EMAIL_PUBLIC_KEY
+      "Apmb0F7_52rNXqUTI"
     ).then( ()=>{
       setLoading(false);
       // alert('Thank you. i will get back to you as soon as possible');
