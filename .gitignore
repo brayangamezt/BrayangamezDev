@@ -25,4 +25,3 @@ dist-ssr
 
 # Variables
 .env
-.env.production
