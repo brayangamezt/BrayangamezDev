@@ -30,7 +30,8 @@ import {
     python,
     weather2,
     appGastos,
-    games
+    games,
+    memory
   } from "../assets";
   
   export const navLinks = [
@@ -265,6 +266,26 @@ import {
       image: weather2,
       source_code_link: "https://github.com/brayangamezt/weather",
     },
+    {
+      name:'Memory',
+      description:'This is a memory game where there are 4 pairs images and you have to find them all before 30 second are up',
+      tags:[
+        {
+          name:'React',
+          color:'blue-text-gradient'
+        },
+        {
+          name:'Tailwind',
+          color:'green-text-gradient'
+        },
+        {
+          name:'Sweetalert',
+          color:'pink-text-gradient'
+        }
+      ],
+      image:memory,
+      source_code_link:'https://brayangamezt.github.io/memory/'
+    }
   ];
   
   export { services, technologies, experiences, testimonials, projects };
