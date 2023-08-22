@@ -222,7 +222,7 @@ import {
         },
       ],
       image: games,
-      source_code_link: "https://github.com/brayangamezt/controls-games",
+      source_code_link: "https://brayangamezt.github.io/controls-games/",
     },
     {
       name: "Expense application",
@@ -243,7 +243,7 @@ import {
         },
       ],
       image: appGastos,
-      source_code_link: "https://github.com/brayangamezt/App-expense",
+      source_code_link: "https://app-lista-gastos-877d9.web.app/iniciar-sesion",
     },
     {
       name: "Weather App",
