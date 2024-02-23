@@ -82,9 +82,5 @@ export {
   weather2,
   appGastos,
   games,
-<<<<<<< HEAD
   taskGpt
-=======
-  memory
->>>>>>> 60c581c68898f2037dd482f1114a84a172ce30a7
 };
