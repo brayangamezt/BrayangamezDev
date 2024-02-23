@@ -14,14 +14,6 @@ import {
     mongodb,
     git,
     figma,
-    docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
     te,
     engrane,
@@ -30,7 +22,8 @@ import {
     python,
     weather2,
     appGastos,
-    games
+    games,
+    taskGpt
   } from "../assets";
   
   export const navLinks = [
@@ -264,6 +257,27 @@ import {
       ],
       image: weather2,
       source_code_link: "https://github.com/brayangamezt/weather",
+    },
+    {
+      name: "TasksGPT",
+      description:
+        "In this website you can do different kind of task like create audios with a text, creat text with audios, create images, ortography etc",
+      tags: [
+        {
+          name: "Angular",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Nest",
+          color: "green-text-gradient",
+        },
+        {
+          name: "OpenAi-API",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: taskGpt,
+      source_code_link: "https://angular-gpt-e0e34.web.app/orthography",
     },
   ];
   

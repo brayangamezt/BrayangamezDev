@@ -41,6 +41,7 @@ import python from './tech/python.png'
 import weather2 from './weather2.jpg';
 import appGastos from './appGastos.jpg';
 import games from './games.png';
+import taskGpt from './taskGpt.png';
 
 
 export {
@@ -80,5 +81,6 @@ export {
   python,
   weather2,
   appGastos,
-  games
+  games,
+  taskGpt
 };
