@@ -229,7 +229,7 @@ import {
         },
       ],
       image: weather2,
-      source_code_link: "https://github.com/brayangamezt/weather",
+      source_code_link: "https://brayangamezt.github.io/weather/",
     },
     {
       name: "TasksGPT",
