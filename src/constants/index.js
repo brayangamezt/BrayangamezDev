@@ -121,7 +121,7 @@ import {
       company_name: "Engrane digital",
       icon: engrane,
       iconBg: "#383E56",
-      date: "May 2022 - Current",
+      date: "May 2022 - 01-2024",
       points: [
         "Developing and maintenance to different front end interfaces using angular framework and react",
         "Consume API'S rest services",
@@ -164,33 +164,6 @@ import {
         "Categorized search engine results according to predetermined guidelines provided by the client.",
         "Help to predetermined some voice query",
       ],
-    },
-  ];
-  
-  const testimonials = [
-    {
-      testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
   
