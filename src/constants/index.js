@@ -192,7 +192,7 @@ import {
     {
       name: "Expense application",
       description:
-        "In this website you can sign in with your email account and start saving your month expense to keep a better record of these.",
+        "In this website you can sign in with your email account and start saving your month expenses to keep a better record of these.",
       tags: [
         {
           name: "react",
